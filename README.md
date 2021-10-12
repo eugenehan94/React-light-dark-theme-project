@@ -1,3 +1,11 @@
+# React Light/Dark Theme Project
+
+## Link to project: https://eugenehan94.github.io/React-Counter-Project/
+
+A button to toggle between light and dark theme using React and styled components.
+
+
+--------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
