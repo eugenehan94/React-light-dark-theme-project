@@ -5,6 +5,10 @@
 A button to toggle between light and dark theme using React and styled components.
 
 
+## Light/Dark Theme Demo
+![DarkLightThemeDemo](https://user-images.githubusercontent.com/59939048/140669113-957e0216-8473-45d7-800f-98a601fbd6ed.gif)
+
+
 --------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
